@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MessageActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.example.messageCagnan.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.example.messagecagnan.MESSAGE";
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
